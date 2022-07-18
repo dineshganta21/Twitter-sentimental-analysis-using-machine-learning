@@ -77,7 +77,7 @@ The various steps involved in the **Machine Learning Pipeline** are :
 Function For Model Evaluation
 
 
-# **Model Building **
+# **Model Building**
 # **Model1:Bernoulli Naive Bayes model**
 ![image](https://user-images.githubusercontent.com/103111784/179453579-be2e935e-f722-494c-84b8-ad3fdb795fc8.png)
 
