@@ -118,10 +118,16 @@ Function For Model Evaluation
 # **conclusion:**
 Upon evaluating all the models we can conclude the following details i.e.
 **Accuracy:**As far as the accuracy of the model is concerned Logistic Regression performs better than SVM which in turn performs better than Bernoulli Naive Bayes. 
+
 **F1-score:** The F1 Scores for class 0 and class 1 are :
+
+
 (a) For class 0: Logistic Regression (accuracy = 0.98)< Bernoulli Naive Bayes(accuracy = 0.98) < SVM (accuracy =1.00)
 
+
 (b) For class 1: Logistic Regression (accuracy = 0.65)< Bernoulli Naive Bayes (accuracy = 0.69) < SVM (accuracy = 0.98)
+
+
 **AUC Score:** All three models have the same ROC-AUC score. 
 We, therefore, conclude that the SVM is the best model for the above-given dataset.
 In our problem statement, **SVM Support-vector machine**is following the principle of**Occam’s Razor**which defines that for a particular problem statement if the data has no assumption, then the simplest model works the best. Since our dataset does not have any assumptions and SVM is a simple model, therefore the concept holds true for the above-mentioned dataset
