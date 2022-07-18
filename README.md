@@ -79,12 +79,15 @@ Function For Model Evaluation
 
 # **Model Building**
 # **Model1:Bernoulli Naive Bayes model**
+
 ![image](https://user-images.githubusercontent.com/103111784/179453579-be2e935e-f722-494c-84b8-ad3fdb795fc8.png)
 
 
 
 **Plot the ROC-AUC Curve for model-1**
+
 ![image](https://user-images.githubusercontent.com/103111784/179453639-a1990814-33eb-454c-9c52-b5decc38a701.png)
+
 
 
 
@@ -101,11 +104,13 @@ Function For Model Evaluation
 
 
 # **Model-3 Logistic Regression model**
+
 ![image](https://user-images.githubusercontent.com/103111784/179453898-3a40f4a8-48ed-4414-80e6-331fc64c1f74.png)
 
 
 
 **Plot the ROC-AUC Curve for model-3**
+
 ![image](https://user-images.githubusercontent.com/103111784/179453930-5f8e149a-21d1-4101-bc97-ce46fe6b1b73.png)
 
 
