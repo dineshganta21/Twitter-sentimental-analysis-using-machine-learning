@@ -42,11 +42,11 @@ The dataset provided is the Sentiment Dataset which consists of 50,000 tweets th
 ![image](https://user-images.githubusercontent.com/103111784/179452499-cc6e8f05-bb42-475c-8d85-6002f580329d.png)
 
 # **Understanding the impact of Hashtags on tweets sentiment **
-    # **Non-Racist/Sexist Tweets **
-      ![image](https://user-images.githubusercontent.com/103111784/179452605-d7b94e9b-5d1e-4260-974b-3f0727ee07f4.png)
+# **Non-Racist/Sexist Tweets **
+![image](https://user-images.githubusercontent.com/103111784/179452605-d7b94e9b-5d1e-4260-974b-3f0727ee07f4.png)
       
-    # **Racist/Sexist Tweets**
-      ![image](https://user-images.githubusercontent.com/103111784/179452716-9f95a4a1-3bed-44b1-8ec0-3966acc6c7cd.png)
+# **Racist/Sexist Tweets**
+![image](https://user-images.githubusercontent.com/103111784/179452716-9f95a4a1-3bed-44b1-8ec0-3966acc6c7cd.png)
       
 # **CLEANING TWEET DATA**
 
@@ -68,41 +68,41 @@ The dataset provided is the Sentiment Dataset which consists of 50,000 tweets th
 # **Text Normalization**
 
 # **WORD CLOUD**
-  # **plot a cloud of word for top 100 words in the tweets**
-      ![image](https://user-images.githubusercontent.com/103111784/179453114-f4649f4a-1b61-4699-b92e-530862b2247d.png)
+# **plot a cloud of word for top 100 words in the tweets**
+![image](https://user-images.githubusercontent.com/103111784/179453114-f4649f4a-1b61-4699-b92e-530862b2247d.png)
 
-  # **plot a cloud of word for all the words in the tweets **
-      ![image](https://user-images.githubusercontent.com/103111784/179453159-c7aa41f2-3724-46f5-97ee-f537e910c412.png)
+# **plot a cloud of word for all the words in the tweets **
+![image](https://user-images.githubusercontent.com/103111784/179453159-c7aa41f2-3724-46f5-97ee-f537e910c412.png)
 
-  # **Plot a cloud of words for positive tweets**
-      ![image](https://user-images.githubusercontent.com/103111784/179453235-58182848-33a6-42d7-a8fc-fc2d9ca7e160.png)
+# **Plot a cloud of words for positive tweets**
+![image](https://user-images.githubusercontent.com/103111784/179453235-58182848-33a6-42d7-a8fc-fc2d9ca7e160.png)
 
   
-  # **Plot a cloud of words for negative tweets **
-      ![image](https://user-images.githubusercontent.com/103111784/179453303-aa38f922-7fed-41cd-8453-7cdb8db47f58.png)
+# **Plot a cloud of words for negative tweets **
+![image](https://user-images.githubusercontent.com/103111784/179453303-aa38f922-7fed-41cd-8453-7cdb8db47f58.png)
 
 # ** Transforming Dataset using TF-IDF Vectorizer**
 Function For Model Evaluation
-  # **Model Building **
-    # **Model1:Bernoulli Naive Bayes model **
-      ![image](https://user-images.githubusercontent.com/103111784/179453579-be2e935e-f722-494c-84b8-ad3fdb795fc8.png)
+# **Model Building **
+# **Model1:Bernoulli Naive Bayes model **
+![image](https://user-images.githubusercontent.com/103111784/179453579-be2e935e-f722-494c-84b8-ad3fdb795fc8.png)
       
-      **Plot the ROC-AUC Curve for model-1**
-        ![image](https://user-images.githubusercontent.com/103111784/179453639-a1990814-33eb-454c-9c52-b5decc38a701.png)
+**Plot the ROC-AUC Curve for model-1**
+![image](https://user-images.githubusercontent.com/103111784/179453639-a1990814-33eb-454c-9c52-b5decc38a701.png)
 
 
-    # **Model2: SVM (Support Vector Machine) model **
-        ![image](https://user-images.githubusercontent.com/103111784/179453799-83f5308b-d5c9-4f59-9d6c-efadd2346668.png)
+# **Model2: SVM (Support Vector Machine) model **
+![image](https://user-images.githubusercontent.com/103111784/179453799-83f5308b-d5c9-4f59-9d6c-efadd2346668.png)
 
-      **Plot the ROC-AUC Curve for model-2 **
-         ![image](https://user-images.githubusercontent.com/103111784/179453843-0b264574-f1b1-454e-8e7d-55af0ea714e6.png)
+ **Plot the ROC-AUC Curve for model-2 **
+![image](https://user-images.githubusercontent.com/103111784/179453843-0b264574-f1b1-454e-8e7d-55af0ea714e6.png)
 
     
-    # **Model-3 Logistic Regression model **
-        ![image](https://user-images.githubusercontent.com/103111784/179453898-3a40f4a8-48ed-4414-80e6-331fc64c1f74.png)
+# **Model-3 Logistic Regression model **
+![image](https://user-images.githubusercontent.com/103111784/179453898-3a40f4a8-48ed-4414-80e6-331fc64c1f74.png)
 
-      **Plot the ROC-AUC Curve for model-3 **
-        ![image](https://user-images.githubusercontent.com/103111784/179453930-5f8e149a-21d1-4101-bc97-ce46fe6b1b73.png)
+**Plot the ROC-AUC Curve for model-3 **
+![image](https://user-images.githubusercontent.com/103111784/179453930-5f8e149a-21d1-4101-bc97-ce46fe6b1b73.png)
 
       
 # **conclusion:**
