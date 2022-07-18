@@ -130,7 +130,7 @@ Upon evaluating all the models we can conclude the following details i.e.
 
 **AUC Score:** All three models have the same ROC-AUC score. 
 We, therefore, conclude that the SVM is the best model for the above-given dataset.
-In our problem statement, **SVM Support-vector machine**is following the principle of**Occam’s Razor**which defines that for a particular problem statement if the data has no assumption, then the simplest model works the best. Since our dataset does not have any assumptions and SVM is a simple model, therefore the concept holds true for the above-mentioned dataset
+In our problem statement, **SVM Support-vector machine**is following the principle of **Occam’s Razor** which defines that for a particular problem statement if the data has no assumption, then the simplest model works the best. Since our dataset does not have any assumptions and SVM is a simple model, therefore the concept holds true for the above-mentioned dataset
 
 
 
