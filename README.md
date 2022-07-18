@@ -17,8 +17,10 @@ The dataset provided is the Sentiment Dataset which consists of 50,000 tweets th
 * **flag**: It refers to the query. If no such query exists then it is NO QUERY.
 * **user**: It refers to the name of the user that tweeted
 * **text**: It refers to the text of the tweet
-**Project pipeline
-**The various steps involved in the **Machine Learning Pipeline** are :
+
+
+**Project pipeline**
+The various steps involved in the **Machine Learning Pipeline** are :
 
 * Import Necessary Dependencies
 * Read and Load the Dataset
@@ -31,11 +33,11 @@ The dataset provided is the Sentiment Dataset which consists of 50,000 tweets th
 * Model Building
 * Conclusion
 
-# ** **
+
 # **Plotting data **
 ![image](https://user-images.githubusercontent.com/103111784/179452364-d8239eaa-4d79-4942-ae1a-88e4c04ab3a7.png)
 
-** Now we will check the distribution of length of the tweets, in terms of words, in both train and test data.**
+**Now we will check the distribution of length of the tweets, in terms of words, in both train and test data.**
 ![image](https://user-images.githubusercontent.com/103111784/179452450-e74a97de-84dd-433b-92ab-c3a2a1628a61.png)
 
 **Now let us plot a bar graph positive and negative tweets according word count in the tweet**
@@ -53,18 +55,7 @@ The dataset provided is the Sentiment Dataset which consists of 50,000 tweets th
   * Removing Twitter Handles (@user)
   * Removing Punctuations, Numbers, and Special Characters
   * Removing Short Words
-      	id	label	tweet	word count	tidy_tweet
-0	1	0	@user when a father is dysfunctional and is so selfish he drags his kids into his dysfunction. #run	18	when father dysfunctional selfish drags kids into dysfunction
-1	2	0	@user @user thanks for #lyft credit i can't use cause they don't offer wheelchair vans in pdx. #disapointed #getthanked	19	thanks lyft credit cause they offer wheelchair vans disapointed getthanked
-2	3	0	bihday your majesty	3	bihday your majesty
-3	4	0	#model i love u take with u all the time in urðŸ“±!!! ðŸ˜™ðŸ˜ŽðŸ‘„ðŸ‘…ðŸ’¦ðŸ’¦ðŸ’¦	14	model love take with time
-4	5	0	factsguide: society now #motivation	4	factsguide society motivation
-5	6	0	[2/2] huge fan fare and big talking before they leave. chaos and pay disputes when they get there. #allshowandnogo	19	huge fare talking before they leave chaos disputes when they there allshowandnogo
-6	7	0	@user camping tomorrow @user @user @user @user @user @user @user dannyâ€¦	11	camping tomorrow danny
-7	8	0	the next school year is the year for exams.ðŸ˜¯ can't think about that ðŸ˜­ #school #exams #hate #imagine #actorslife #revolutionschool #girl	21	next school year year exams think about that school exams hate imagine actorslife revolutionschool girl
-8	9	0	we won!!! love the land!!! #allin #cavs #champions #cleveland #clevelandcavaliers â€¦	11	love land allin cavs champions cleveland clevelandcavaliers
-9	10	0	@user @user welcome here ! i'm it's so #gr8 !	10	welcome here
-
+      	
 # **Text Normalization**
 
 # **WORD CLOUD**
