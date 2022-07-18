@@ -117,7 +117,8 @@ Function For Model Evaluation
 
 # **conclusion:**
 Upon evaluating all the models we can conclude the following details i.e.
-**Accuracy:**As far as the accuracy of the model is concerned Logistic Regression performs better than SVM which in turn performs better than Bernoulli Naive Bayes. 
+
+**Accuracy:** As far as the accuracy of the model is concerned Logistic Regression performs better than SVM which in turn performs better than Bernoulli Naive Bayes. 
 
 **F1-score:** The F1 Scores for class 0 and class 1 are :
 
