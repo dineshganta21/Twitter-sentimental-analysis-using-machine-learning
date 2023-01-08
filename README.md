@@ -9,15 +9,7 @@ we aim to analyze the sentiment of the tweets provided from the Sentiment140 dat
 # **Problem Statement**
 In this project, we try to implement a Twitter **sentiment analysis** model that helps to overcome the challenges of identifying the sentiments of the tweets. The necessary details regarding the dataset are:
 
-The dataset provided is the Sentiment Dataset which consists of 50,000 tweets that have been extracted using the Twitter API. The various columns present in the dataset are:
-
-* **target**: the polarity of the tweet (positive or negative)
-* **ids**: Unique id of the tweet
-* **date**: the date of the tweet
-* **flag**: It refers to the query. If no such query exists then it is NO QUERY.
-* **user**: It refers to the name of the user that tweeted
-* **text**: It refers to the text of the tweet
-
+Train data set.
 
 # **Project pipeline**
 
